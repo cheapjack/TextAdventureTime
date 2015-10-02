@@ -1,5 +1,7 @@
 #Text Adventure Time
 
+![emojigloves](https://cloud.githubusercontent.com/assets/128456/10256098/bcfb6ad2-6946-11e5-8c6d-bc9a405504b7.jpg)
+
 A repo for making **Art-e-fakes** for [Text Adventure Time](http://www.textadventuretime.co.uk/)
 
 ##Logistics
