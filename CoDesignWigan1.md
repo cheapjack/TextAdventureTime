@@ -23,6 +23,7 @@
 
 
  1. ElectroMagnetic tracker to track robot movement 
+  * See http://www.instructables.com/id/Arduino-EMF-Detector/ 
  1. Mutant Badger Sock Puppett
  1. Mobility Hover Scooter (Robotic Grannies of Cyber Death)
  1. Rick Astley Army of Power
