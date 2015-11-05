@@ -4,17 +4,17 @@
 ## Easy
 ### Orderered in popularity/ease of production Tick Boxes for **Going to Make/Prototype**
 
- 1. Barcode UV Tattoo <ul><li>[x]</li> 
+ 1. Barcode UV Tattoo [x]
  1. Education Centre School Uniform
   * Socks
   * Branded Pencil Case with slogans
   * Wooden electronics/QRCodes as redundant communication systems
-  * School badge for blazer <ul><li>[x]</li>
-  * Education Centre Biometric ID card <ul><li>[x]</li>
+  * School badge for blazer [x]
+  * Education Centre Biometric ID card [x]
  1. Fake Books 
   * **eg** *The Amazing Book is Not On Fire** by *Dan & Phil* becomes a religous text
- 1. Sacred box for Sacred Book (could apply to both the Bible & Communist Grimoire)<ul><li>[x]</li>
- 1. Bio Freak ID card <ul><li>[x]</li>
+ 1. Sacred box for Sacred Book (could apply to both the Bible & Communist Grimoire)[x]
+ 1. Bio Freak ID card [x]
   * Bio Freak initiation scarification kit
 
  1. Mutant Badger Sock Puppet

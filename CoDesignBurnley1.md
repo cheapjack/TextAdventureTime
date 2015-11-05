@@ -5,14 +5,14 @@
 ## Easy
 ### Ordered in popularity/ease of production Tick Boxes for **Going to Make/Prototype**
 
- 1. Skin Chips <ul><li>[x]</li> 
+ 1. Skin Chips [x]
   * Robot Upgrades; up to 42 different emotional nuances
- 1. BioEngineered Embryos in test tubes <ul><li>[x]</li>
+ 1. BioEngineered Embryos in test tubes [x]
  1. Rebel ration pack
- 1. MotherBoard <ul><li>[x]</li>
+ 1. MotherBoard [x]
  1. Water Guns
  1. Recorded Sounds
- 1. DIY Analogue Radio Communicators <ul><li>[x]</li> 
+ 1. DIY Analogue Radio Communicators [x]
 
 **Print (these ideas are essentially realised in print)**
 

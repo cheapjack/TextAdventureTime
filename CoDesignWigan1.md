@@ -5,16 +5,16 @@
 ## Easy
 ### Ordered in popularity/ease of production
 
- 1. Acid Saliva Shooter (pea shooter/pippette) <ul><li>[x]</li>
+ 1. Acid Saliva Shooter (pea shooter/pippette) [x]
  1. Rocket Shoes
  1. Projection Glasses (branded 3d glasses with LED flasher)
-  * WiFi Glasses <ul><li>[x]</li>
+  * WiFi Glasses [x]
  1. Cyborg Passports (print)
  1. The Bible Becomes Fan Fiction **Arguably it already *is* fan fiction**
-  * Bible becomes a [wiki page](http://biblewiki.net/static/Bible_Wiki) <ul><li>[x]</li>
+  * Bible becomes a [wiki page](http://biblewiki.net/static/Bible_Wiki) [x]
  1. In game PunBot
  1. Wooden Electronics
- 1. Replacement Wing Kits <ul><li>[x]</li>
+ 1. Replacement Wing Kits [x]
   * (Just make the packaging from large electrostatic bags) 
  1. Soul Building Lego ?
  1. Communist Spell Book vs
