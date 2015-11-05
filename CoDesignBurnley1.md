@@ -5,28 +5,28 @@
 ## Easy
 ### Ordered in popularity/ease of production Tick Boxes for **Going to Make/Prototype**
 
- 1. Skin Chips [x]
+ - [x] Skin Chips 
   * Robot Upgrades; up to 42 different emotional nuances
- 1. BioEngineered Embryos in test tubes [x]
- 1. Rebel ration pack
- 1. MotherBoard [x]
- 1. Water Guns
- 1. Recorded Sounds
- 1. DIY Analogue Radio Communicators [x]
+ - [x] BioEngineered Embryos in test tubes
+ - [ ] Rebel ration pack
+ - [x] MotherBoard 
+ - [ ] Water Guns
+ - [ ] Recorded Sounds
+ - [x] DIY Analogue Radio Communicators 
 
 **Print (these ideas are essentially realised in print)**
 
- 1. Robots are helping YOU *Propaganda Posters*
- 1. Paul Young T Shirt in Che Guevara style
- 1. Pages from the SAS Survival Guide
- 1. Welcome to Robo-Burnley Posters
- 1. Manual explaining how to graft bio skin on a robot
- 1. Posters for H.A.B.A **H**umans **A**gainst **B**ioEngineered **A**nimals
- 1. Sentry Tower Schematic (use the Roland plotter)
+ - [ ] Robots are helping YOU *Propaganda Posters*
+ - [ ] Paul Young T Shirt in Che Guevara style
+ - [ ] Pages from the SAS Survival Guide
+ - [ ] Welcome to Robo-Burnley Posters
+ - [ ] Manual explaining how to graft bio skin on a robot
+ - [ ] Posters for H.A.B.A **H**umans **A**gainst **B**ioEngineered **A**nimals
+ - [ ] Sentry Tower Schematic (use the Roland plotter)
 
 
 ## Hard(ish)
 
- 1. Adapted Nokia brick phone 
- 1. A picture of the 'residence' like in "Harry Potter & The Order of The Phoenix" possibly animated
- 1. Miniature Bio-Garden
+ - [ ] Adapted Nokia brick phone 
+ - [ ] A picture of the 'residence' like in "Harry Potter & The Order of The Phoenix" possibly animated
+ - [ ] Miniature Bio-Garden
