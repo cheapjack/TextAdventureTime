@@ -17,11 +17,11 @@
 **Print (these ideas are essentially realised in print)**
 
  - [ ] Robots are helping YOU *Propaganda Posters*
- - [ ] Paul Young T Shirt in Che Guevara style
+ - [x] Paul Young T Shirt in Che Guevara style
  - [ ] Pages from the SAS Survival Guide
  - [ ] Welcome to Robo-Burnley Posters
  - [ ] Manual explaining how to graft bio skin on a robot
- - [ ] Posters for H.A.B.A **H**umans **A**gainst **B**ioEngineered **A**nimals
+ - [x] Posters for H.A.B.A **H**umans **A**gainst **B**ioEngineered **A**nimals
  - [ ] Sentry Tower Schematic (use the Roland plotter)
 
 
