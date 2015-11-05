@@ -1,5 +1,9 @@
 #Art-E-Fake Compiled List 
 
+#### List of Prototypes to Potentially Build and Co-Design at Text Adventure Time Summit 7th November 2015 50 years exactly before incident. 
+
+**NB Tampering with github commit hashes can result in serious time paradoxes**
+
 ![paulyoungrevolution](https://cloud.githubusercontent.com/assets/128456/10983891/6e7781c0-840d-11e5-8ec5-7d0861c52ed3.png)
 
 ### Wigan List
