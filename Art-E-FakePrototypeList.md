@@ -9,7 +9,7 @@
  - [x] Replacement Wing Kits
   * (Just make the packaging from large electrostatic bags)
 
-#### Print
+#### Print (ideas that are essentially realised in print)
 
  - [ ] Communist Spell Book vs
   * Engels Grimoire **Also arguably fan fiction**
@@ -23,6 +23,14 @@
  - [x] DIY Analogue Radio Communicators 
 
 #### Print
+
+ - [ ] Robots are helping YOU *Propaganda Posters*
+ - [x] Paul Young T Shirt in Che Guevara style (see T-Shirt Design Above)
+ - [ ] Pages from the SAS Survival Guide
+ - [ ] Welcome to Robo-Burnley Posters
+ - [ ] Manual explaining how to graft bio skin on a robot
+ - [x] Posters for H.A.B.A **H**umans **A**gainst **B**ioEngineered **A**nimals
+ - [ ] Sentry Tower Schematic (use the Roland plotter)
 
 ### Hull List
 
