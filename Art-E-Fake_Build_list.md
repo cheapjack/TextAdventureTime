@@ -2,6 +2,8 @@
 
 ![ftrgenblueprinttest](https://cloud.githubusercontent.com/assets/128456/11595928/eec58072-9aa9-11e5-98e3-7b956f6a331e.png)
 
+![plinth](https://cloud.githubusercontent.com/assets/128456/11719011/af960c7c-9f50-11e5-8988-10aac40fdf63.png)
+
 
 #### List of Art-E-Fakes to Build from the Text Adventure Time Summit 7th November 
 
@@ -24,7 +26,7 @@
 
 ### Wigan
 
- - [x] Projection Glasses (branded 3d glasses with LED flasher)
+ - [x] Projection Glasses (futuregen branded 3d glasses with LED flasher)
  - [x] Replacement Wing Kits
   * (Just make the packaging with large electrostatic bags)
 
@@ -33,11 +35,12 @@
 
  - [x] Skin Chips 
   * Robot Upgrades; up to 42 different emotional nuances
-  * Product photograph of a timer chip 'embedded' behind someone's ear 
+  * Product photograph of a timer chip 'embedded' behind someone's ear: see print list below 
  - [x] BioEngineered Embryos in test tubes
   * 3d printed embryos in futuregen branded test tube holders.
 
- - [x] MotherBoard 
+ - [x] MotherBoard
+  * Discarded motor driver board 
  - [x] DIY Analogue Radio Communicators 
   * Morse code shrimp flasher
  - [x] Brick Nokia phone with augmented bass roll off
@@ -71,10 +74,16 @@
 ### Image Reference
 
 ![Tolkein like maps](http://c.fastcompany.net/multisite_files/fastcompany/imagecache/slideshow_large/slideshow/2014/10/3036718-slide-s-5-these-tolkien-esque-maps-turn-american.jpg)
+
 [Tolkein like maps](http://c.fastcompany.net/multisite_files/fastcompany/imagecache/slideshow_large/slideshow/2014/10/3036718-slide-s-5-these-tolkien-esque-maps-turn-american.jpg)
 
 ![Home-made Adventure Game Maps](https://wildfireds.files.wordpress.com/2010/11/dungeon.jpg)
+
 [Home-made Adventure Game Maps](https://wildfireds.files.wordpress.com/2010/11/dungeon.jpg)
 
 ![GetLampIllustration](http://www.getlamp.com/order/artwork.jpg)
+
 [GetLampIllustration](http://www.getlamp.com/order/artwork.jpg)
+
+![Obligatory Education Game](http://mightygodking.com/images/atari/obligatory.jpg)
+
