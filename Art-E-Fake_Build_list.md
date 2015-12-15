@@ -2,7 +2,7 @@
 
 ![ftrgenblueprinttest](https://cloud.githubusercontent.com/assets/128456/11595928/eec58072-9aa9-11e5-98e3-7b956f6a331e.png)
 
-![plinth](https://cloud.githubusercontent.com/assets/128456/11719011/af960c7c-9f50-11e5-8988-10aac40fdf63.png)
+![tatplinthmockup](https://cloud.githubusercontent.com/assets/128456/11808685/d329b2a2-a319-11e5-8e8a-89d5bcf41d9f.jpg)
 
 
 #### List of Art-E-Fakes to Build from the Text Adventure Time Summit 7th November 
