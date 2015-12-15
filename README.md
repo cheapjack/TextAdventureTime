@@ -16,6 +16,7 @@ Make lo-tech objects from the gameworld: lo-tech objects co-designed to infer a 
 ###Inspiration 
 
  * [they live...](https://www.google.co.uk/search?q=they+live&es_sm=91&source=lnms&tbm=isch&sa=X&ved=0CAcQ_AUoAWoVChMIk83Y9qieyAIVwypyCh0KdgEM&biw=1021&bih=546&dpr=1.25)
+ * See [StyleSheet](https://github.com/cheapjack/TextAdventureTime/blob/master/StyleSheet.md)
 
 ###Fonts
  * Garramond
