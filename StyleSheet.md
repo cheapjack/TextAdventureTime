@@ -2,6 +2,8 @@
 
 #### Inspirations
 
+ * [they live...](https://www.google.co.uk/search?q=they+live&es_sm=91&source=lnms&tbm=isch&sa=X&ved=0CAcQ_AUoAWoVChMIk83Y9qieyAIVwypyCh0KdgEM&biw=1021&bih=546&dpr=1.25)
+
  * Portal2 Fan Art and Cosplay 
 
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.willyyonkers.com%2Ftg%2Ftg-tictactoe1.jpg&f=1" width="400">
@@ -16,7 +18,7 @@ http://www.pinstopin.com/lego-portal-2-potato/
 
 #### Idea
 
-The whole display concept could be like the Portal displays around the potato battery and the history of Cave Johnson... the display could be designed to look like it's from a farther future maybe 100 years after the story: the displays are the artefacts of the resistance & struggle which is perhaps seen as laughable outdated and nieve but possibly ambiguous as to whether the display has been made from perspective of the robots winning or the resistance winning.
+The whole display concept could be like the Portal displays around the potato battery and the history of Cave Johnson... the display is designed to look like it's from a farther future maybe 100 years after the story: the displays are the artefacts of the resistance & struggle which is perhaps seen as laughable outdated and nieve but possibly ambiguous as to whether the display has been made from perspective of the robots winning or the resistance winning.
 
 ##### `WARNING` Tampering with github commit hashes can result in serious time paradoxes
 
