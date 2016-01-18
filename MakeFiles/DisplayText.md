@@ -1,7 +1,15 @@
 
-
 # Guide to Art-e-fakes on Display
-# Vitrine 1
+
+# Main Base Artwork
+
+## Northern Powerhouse
+
+This display is the latest in a series of 
+‘Northern Powerhouse’ exhibitions exploring 
+historical culture for the 100 year anniversary of the incident. This exhibit looks at key events from post-incident times in the British Isles in the period 2060-2080.
+
+# Vitrine 1 W540xD360xH200 mm
 
 ## BrickChain Phone
 
@@ -16,36 +24,18 @@ Cannibalised microcontrollers and components were used to broadcast analogue and
 Nautical NAGRAFAX machines recovered by the resistance from water vessels were discovered to be 'hacked' to send encrypted thermal printouts of futuregen factory schematics and plans. It remains unclear whether these plans were accurate.
 
 
-# Vitrine 2
+# Vitrine 2 W465xD200xH200 mm
 
-## Cyborg Wing Extension Kit
+## Emoji-gloves
 
-Cyborgs were FutureGen experiments some completed without human consent. Many of these ’bio-freaks’ inhabited the hinterlands of Hull. There prototypes frequently failed and required part replacements and extensions.
+Emoji-gloves were the resistance’s way of secretly communicating with each other on Haven production lines. Boxes of emoji-gloves were discovered in abandoned lockers next to this mysterious ‘glyph’. Researchers assume this is a type of text encoding system from pre-Incident times accessed by something believed to be called a QRPhone.
 
-## Cyborg Unfolding Fox
+## DeathTurf©
 
-Early nanotech unfolding fox-bot remains. Early 
-nanotech often referenced pre-incident time 'familiars'
+Traces of human ageing toxins found on this item known as DeathTurf© seem to confirm the material could cause premature ageing. Unclear whether this material was used on the Pennines or on something called the Bactogarden.
 
-## Bag O' Nanotech
 
-A popular myth in post-incident society were bags of nanotech thought to be dropped at strategic locations to monitor the resistance. This bag is empty actually. We already have 
-all the nanotech you need in your blood.
-
-# Vitrine 3
-
-## Biometric ID Cards
-
-Employees at FutureGen born pre-incident wore these ID cards for access to certain key research areas. Of course this was not required of the younger employees who did not require the BDR (Bio Dependent Resistor) detector.
-
-## Pin Badges
-Pin Badges for education centre streams
-
-## Education Centre Blazer Badge
-
-Post-incident powerhouse Hull had by far the most prestigious Education Centre and this badge was worn proudly by all humans lucky enough to attend.
-
-# Vitrine 4
+# Vitrine 3 W650xD480xH100 mm
 
 ## Futuregen
 
@@ -74,7 +64,7 @@ own network we connect to at birth
 Futuregen developed a broad range of bio-engineered animals often using dog and fox embryos as starting points before moving on to more advanced engineering that evolved from our own blueprints. 
 Here embryos are suspended in a bio neutral oil that could still be grown, although of course that is no longer necessary.
 
-# Vitrine 5
+# Vitrine 4 W455xD300xH310 mm
 
 ## Sacred Book
 
@@ -82,21 +72,33 @@ Much academic controversy surrounds the remains of this book. For a time books s
 
 This book is a window into a very specific time pre-incident and as such was not indexed and largely overlooked. There is some evidence to suggest that something may have been encoded in such a book  
 
+# Vitrine 5 W415xD200xH200 mm
 
-# Vitrine 6
+## Cyborg Wing Extension Kit
 
-## Emoji-gloves
+Cyborgs were FutureGen experiments some completed without human consent. Many of these ’bio-freaks’ inhabited the hinterlands of Hull. There prototypes frequently failed and required part replacements and extensions.
 
-Emoji-gloves were the resistance’s way of secretly communicating with each other on Haven production lines. Boxes of emoji-gloves were discovered in abandoned lockers next to this mysterious ‘glyph’. Researchers assume this is a type of text encoding system from pre-Incident times accessed by something believed to be called a QRPhone.
+## Cyborg Unfolding Fox
 
-## DeathTurf©
+Early nanotech unfolding fox-bot remains. Early 
+nanotech often referenced pre-incident time 'familiars'
 
-Traces of human ageing toxins found on this item known as DeathTurf© seem to confirm the material could cause premature ageing. Unclear whether this material was used on the Pennines or on something called the Bactogarden.
+## Bag O' Nanotech
 
-# Main Base
+A popular myth in post-incident society were bags of nanotech thought to be dropped at strategic locations to monitor the resistance. This bag is empty actually. We already have 
+all the nanotech you need in your blood.
 
-## Northern Powerhouse
+# Vitrine 6 W400xD210xH40mm
 
-This display is the latest in a series of 
-‘Northern Powerhouse’ exhibitions exploring 
-historical culture for the 100 year anniversary of the incident. This exhibit looks at key events from post-incident times in the British Isles in the period 2060-2080.
+## Biometric ID Cards
+
+Employees at FutureGen born pre-incident wore these ID cards for access to certain key research areas. Of course this was not required of the younger employees who did not require the BDR (Bio Dependent Resistor) detector.
+
+## Pin Badges
+Pin Badges for education centre streams
+
+## Education Centre Blazer Badge
+
+Post-incident powerhouse Hull had by far the most prestigious Education Centre and this badge was worn proudly by all humans lucky enough to attend.
+
+
