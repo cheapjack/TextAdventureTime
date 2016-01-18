@@ -55,6 +55,8 @@ or managing nutrients for embryo surrogates
 
 ## NeuroStem©
 
+![brainchip-for-display](https://cloud.githubusercontent.com/assets/5999734/12172477/09d9b00e-b549-11e5-825e-5dd3f5ca9050.jpg)
+
 These neural uplink units are early universal bus connection implants to connect to the fledgling Amazonian Cloud 
 network a descendent of WiFi and forerunner of our 
 own network we connect to at birth
