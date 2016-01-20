@@ -97,8 +97,7 @@ This book is a window into a very specific time pre-incident and as such was not
 
 ## Cyborg Wing Extension Kit
 
-<img src="https://cloud.githubusercontent.com/assets/128456/12455633/5a7ab8dc-bf94-11e5-9e0a-931bb8ea16e9.png" width="400">
-
+<img src="https://cloud.githubusercontent.com/assets/128456/12457116/c4372b7e-bf9a-11e5-8d9e-c29182e06a27.png" width="400">
 
 Cyborgs were FutureGen experiments some completed without human consent. Many of these ’bio-freaks’ inhabited the hinterlands of Hull. There prototypes frequently failed and required part replacements and extensions.
 
